@@ -1,2 +1,1 @@
-# PTprojectcameraDrawing
-Projekt PT - rysowanie za pomocą detekcji ruchu w kamerze
+# Projekt PT - rysowanie za pomocą detekcji ruchu w kamerze
